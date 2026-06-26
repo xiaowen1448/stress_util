@@ -1,0 +1,5 @@
+D:\xiaowen_1448\stress_util\dist\package_20260626_115708\CpuStressWinGui\CpuStressWinGui.exe
+D:\xiaowen_1448\stress_util\dist\package_20260626_115708\CpuStressWinGui\CpuStressWinGui.exe.config
+D:\xiaowen_1448\stress_util\dist\package_20260626_115708\CpuStressWinGui\CpuStressWinGui.pdb
+D:\xiaowen_1448\stress_util\dist\package_20260626_115708\CpuStressWinGui\CpuStressCore.dll
+D:\xiaowen_1448\stress_util\dist\package_20260626_115708\CpuStressWinGui\CpuStressCore.pdb

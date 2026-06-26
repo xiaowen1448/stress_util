@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <ApplicationIcon>..\app.ico</ApplicationIcon>
+    <ImplicitUsings>false</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <LangVersion>9.0</LangVersion>
+    <NoWarn>$(NoWarn);CA1416</NoWarn>
+    <Deterministic>true</Deterministic>
+    <AssemblyName>CpuStressWinGui</AssemblyName>
+    <RootNamespace>CpuStressWinGui</RootNamespace>
+  </PropertyGroup>
+
+  <!-- .NET Framework 下 WinForms / WMI 走框架内置程序集引用（不再用 net6 的 NuGet 包） -->
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CpuStressCore\CpuStressCore.csproj" />
+  </ItemGroup>
+</Project>

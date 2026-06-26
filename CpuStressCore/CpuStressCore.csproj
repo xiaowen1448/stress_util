@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>false</ImplicitUsings>
+    <Deterministic>true</Deterministic>
+    <RootNamespace>CpuStressCore</RootNamespace>
+    <AssemblyName>CpuStressCore</AssemblyName>
+    <Description>Stress util core: CPU / Memory / Disk (.NET Framework 4.8, Windows Server 2012+)</Description>
+  </PropertyGroup>
+</Project>

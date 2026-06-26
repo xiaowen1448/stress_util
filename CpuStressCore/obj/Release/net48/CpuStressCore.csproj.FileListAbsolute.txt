@@ -1,0 +1,10 @@
+D:\xiaowen_1448\stress_util\CpuStressCore\bin\Release\net48\CpuStressCore.dll
+D:\xiaowen_1448\stress_util\CpuStressCore\bin\Release\net48\CpuStressCore.pdb
+D:\xiaowen_1448\stress_util\CpuStressCore\obj\Release\net48\CpuStressCore.csproj.AssemblyReference.cache
+D:\xiaowen_1448\stress_util\CpuStressCore\obj\Release\net48\CpuStressCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\xiaowen_1448\stress_util\CpuStressCore\obj\Release\net48\CpuStressCore.AssemblyInfoInputs.cache
+D:\xiaowen_1448\stress_util\CpuStressCore\obj\Release\net48\CpuStressCore.AssemblyInfo.cs
+D:\xiaowen_1448\stress_util\CpuStressCore\obj\Release\net48\CpuStressCore.csproj.CoreCompileInputs.cache
+D:\xiaowen_1448\stress_util\CpuStressCore\obj\Release\net48\CpuStressCore.sourcelink.json
+D:\xiaowen_1448\stress_util\CpuStressCore\obj\Release\net48\CpuStressCore.dll
+D:\xiaowen_1448\stress_util\CpuStressCore\obj\Release\net48\CpuStressCore.pdb

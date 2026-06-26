@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>CpuStressWin</RootNamespace>
+    <AssemblyName>CpuStressWin</AssemblyName>
+    <TargetFramework>net48</TargetFramework>
+    <NoWarn>$(NoWarn);CA1416</NoWarn>
+    <LangVersion>9.0</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>false</ImplicitUsings>
+    <Description>Windows CPU 压力测试（控制台），.NET Framework 4.8</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CpuStressCore\CpuStressCore.csproj" />
+  </ItemGroup>
+</Project>

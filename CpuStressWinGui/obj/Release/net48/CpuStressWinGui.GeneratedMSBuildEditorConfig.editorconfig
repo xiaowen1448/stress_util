@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = CpuStressWinGui
+build_property.ProjectDir = D:\xiaowen_1448\stress_util\CpuStressWinGui\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

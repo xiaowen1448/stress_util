@@ -1,0 +1,11 @@
+<Project>
+  <!--
+    统一为所有子项目提供 .NET Framework 4.8 的「引用程序集」，
+    这样在只装了 .NET SDK、未装 v4.8 Targeting Pack / Visual Studio 的机器上
+    也能用 `dotnet build` 直接编译 net48 目标。
+    PrivateAssets="all" => 仅编译期使用，不随产物分发。
+  -->
+  <ItemGroup Condition="'$(TargetFramework)' == 'net48'">
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
+  </ItemGroup>
+</Project>

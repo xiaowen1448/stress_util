@@ -1,0 +1,14 @@
+D:\xiaowen_1448\stress_util\CpuStressWinGui\bin\Release\net48\CpuStressWinGui.exe.config
+D:\xiaowen_1448\stress_util\CpuStressWinGui\bin\Release\net48\CpuStressWinGui.exe
+D:\xiaowen_1448\stress_util\CpuStressWinGui\bin\Release\net48\CpuStressWinGui.pdb
+D:\xiaowen_1448\stress_util\CpuStressWinGui\bin\Release\net48\CpuStressCore.dll
+D:\xiaowen_1448\stress_util\CpuStressWinGui\bin\Release\net48\CpuStressCore.pdb
+D:\xiaowen_1448\stress_util\CpuStressWinGui\obj\Release\net48\CpuStressWinGui.csproj.AssemblyReference.cache
+D:\xiaowen_1448\stress_util\CpuStressWinGui\obj\Release\net48\CpuStressWinGui.GeneratedMSBuildEditorConfig.editorconfig
+D:\xiaowen_1448\stress_util\CpuStressWinGui\obj\Release\net48\CpuStressWinGui.AssemblyInfoInputs.cache
+D:\xiaowen_1448\stress_util\CpuStressWinGui\obj\Release\net48\CpuStressWinGui.AssemblyInfo.cs
+D:\xiaowen_1448\stress_util\CpuStressWinGui\obj\Release\net48\CpuStressWinGui.csproj.CoreCompileInputs.cache
+D:\xiaowen_1448\stress_util\CpuStressWinGui\obj\Release\net48\CpuStressWinGui.sourcelink.json
+D:\xiaowen_1448\stress_util\CpuStressWinGui\obj\Release\net48\CpuStres.65E293FA.Up2Date
+D:\xiaowen_1448\stress_util\CpuStressWinGui\obj\Release\net48\CpuStressWinGui.exe
+D:\xiaowen_1448\stress_util\CpuStressWinGui\obj\Release\net48\CpuStressWinGui.pdb
